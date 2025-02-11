@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a **Linux System Engineer** specializing in **Linux virtualization, physical data centers, and large-scale storage**. I work with technologies like **VMware vSphere, Cisco ACI, HPE Synergy, HPE 3PAR**, and I enjoy optimizing infrastructure for performance and reliability.
 
-- 💾 Managing enterprise-level storage & networking
+- 💾 Managing enterprise-level virtualization & storage & networking
 - 🖥️ Deploying and securing **Linux** servers
 - 🛠️ Automating tasks with scripts & containerized environments
 - 📡 Running **OSCam**, **Icecast**, and other services
