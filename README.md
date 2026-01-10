@@ -33,3 +33,6 @@ I'm a **Linux System Engineer** specializing in **Linux virtualization, physical
 - 🛠 **Projects**: Check out my repositories for cool automation & infrastructure tools
 
 🚀 *Building, learning, and sharing knowledge every day!*
+
+
+<a href="https://www.buymeacoffee.com/sentello"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy me a coffee"></a>
